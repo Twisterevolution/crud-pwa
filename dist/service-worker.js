@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9d38d09d7555dbd030ce8ba58fbdd1cb.js"
+  "/precache-manifest.bda98515903086dd5407f228a7829fea.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "unabase-test"});
